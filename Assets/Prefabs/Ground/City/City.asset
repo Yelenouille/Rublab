@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6e1e54daee6d474a9174052d294f0da, type: 3}
+  m_Name: City
+  m_EditorClassIdentifier: 
+  theme: 0
+  line: {fileID: 1312484619333624350, guid: ce818209811fe114e860c02af3f985f2, type: 3}
+  triple: {fileID: 7158321097023833997, guid: 3fb6053e15a645343bb56b4d5bb7151d, type: 3}
+  fullcross: {fileID: 1684741085007320044, guid: a71bac8aa2b611743a4af743ada1a7c4, type: 3}
+  curve: {fileID: 8106889124451877343, guid: 5be72076198ea4d4ca1ef789858b47d6, type: 3}
+  endLine: {fileID: 7615973727300040238, guid: 723cf0b110bc85c4486d9acc1da38648, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6e1e54daee6d474a9174052d294f0da, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  theme: 0
+  line: {fileID: 9092873645179687403, guid: 4a9ffa97598f3f546b1fe05a0fe9248b, type: 3}
+  triple: {fileID: 2347750363835130242, guid: 8e3978514690e14468dc9fbf50092b5f, type: 3}
+  fullcross: {fileID: 6912249938102323236, guid: 6336bfce3c875b340b45561f39127fb4, type: 3}
+  curve: {fileID: 6873794284780810927, guid: 625175a3aba17b549a2a279eac46ceb6, type: 3}
+  endLine: {fileID: 1621433535520471230, guid: 8221f2d9659efa74ea2872c535345fb9, type: 3}

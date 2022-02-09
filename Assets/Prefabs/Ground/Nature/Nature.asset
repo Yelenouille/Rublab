@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6e1e54daee6d474a9174052d294f0da, type: 3}
+  m_Name: Nature
+  m_EditorClassIdentifier: 
+  theme: 0
+  line: {fileID: 5507711680715913768, guid: ddd0b99036752b940950d04c41413b80, type: 3}
+  triple: {fileID: 944341084600445938, guid: 05edca832ceb2304e8f32019e23c5907, type: 3}
+  fullcross: {fileID: 2393281299429420687, guid: e9f710741254d534aa6325609b1984d4, type: 3}
+  curve: {fileID: 8109163071973415991, guid: 6dfdd25aa34b77445bb30df487a1d504, type: 3}
+  endLine: {fileID: 7889195808425935621, guid: dec1bbf047661bf49ac7f522b4415f83, type: 3}
